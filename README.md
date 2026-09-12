@@ -23,7 +23,7 @@ The deployable output is written to `out/`.
 
 ## Recommended low-cost Azure architecture
 
-### Release 1 — use this now
+### Release 1 — use this now 
 
 ```text
 GitHub repository
